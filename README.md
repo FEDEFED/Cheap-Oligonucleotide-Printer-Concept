@@ -6,4 +6,4 @@ Procedure\n
 -The salt is itroduced into a solution of a backbone DNA and TdT, contained in a beaker A\n
 -A is cleaned from excess salt\n
 -HCl is added to A\n
--A is cleaned from excess HCl\n
+-A is cleaned from excess HCl<br />
